@@ -32,5 +32,4 @@ Amount:1000000000000000000
 ## transcation
 [Etherscan 交易明細](https://goerli.etherscan.io/tx/0x67fc8a326605399724b998c6b9fe9b06a6bf7f7420817e2df4af7d1798adde3c)
 
-<img width="977" alt="截圖 2023-02-01 下午4 12 37" src="https://user-images.githubusercontent.com/44830858/216010979-577623fb-f0f3-4809-8504-e04683bbc271.png">
-
+<img width="955" alt="截圖 2023-02-01 下午6 01 01" src="https://user-images.githubusercontent.com/44830858/216011766-d14c4a47-eae6-4e14-a4d4-70fc80d2f601.png">
