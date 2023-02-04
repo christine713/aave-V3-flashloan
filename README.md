@@ -2,13 +2,15 @@
 deploy aave v3 flashloan smart contract on **Georli** test network
 
 ## Get started
-1.在goerli 建立兩個ERC20 token
+1.在goerli 建立兩個[ERC20 token](https://docs.openzeppelin.com/contracts/4.x/erc20)
 
-2.到 Aave testnet mode 的 faucet 領取 DAI 
+2.到 Aave testnet mode 的 [faucet](https://staging.aave.com/faucet/?marketName=proto_goerli_v3) 領取 DAI 
 
 <img width="188" alt="image" src="https://user-images.githubusercontent.com/44830858/216009939-38245ac8-bce7-480a-afe6-385881042353.png">
 
-3.在uniswapv2創建三個交易對([Uniswap官網](https://uniswap.org/) > Launch App > Pool > More > V2 liquidity > Create a pair)
+3.在uniswapv2創建三個交易對，為了產生匯差來實作套利
+
+([Uniswap官網](https://uniswap.org/) > Launch App > Pool > More > V2 liquidity > Create a pair)
 
 DAI-tkB 100:10000
 
